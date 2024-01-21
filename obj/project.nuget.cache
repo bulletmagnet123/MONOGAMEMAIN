@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zomWIZotp3pd0hppGqKA9O4r/RAXBm0CDw4eT8XdlwYRu8GoFO4hCJzwJ2ufvmirC0emmLE+H2bSmmmKPxXog==",
+  "success": true,
+  "projectFilePath": "/home/bulletmagnet/Desktop/MonoGameMain/MonoGameMain.csproj",
+  "expectedPackageFiles": [
+    "/home/bulletmagnet/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/bulletmagnet/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/bulletmagnet/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/bulletmagnet/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/bulletmagnet/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
